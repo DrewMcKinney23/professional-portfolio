@@ -1,0 +1,15 @@
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .app {
+    width: 48%;
+    height: 100px;
+    margin-bottom: 2%;
+  }
+  
+  .app:nth-child(3n) {
+    width: 100%;
+  }
