@@ -20,7 +20,6 @@ img {
     justify-content: space-between;
     flex-wrap: wrap;
     border:solid rgba(56, 85, 252, 0.788)
-    border: solid rgba(56, 85, 252, 0.788)
     border thickness: 5px;
     padding: 5px;
     space-between: center;
@@ -50,4 +49,10 @@ footer {
         line-height: 1.5;
         font-size: 1.25;
         flex-wrap: wrap;
+
+}
+
+.run-buddy {
+    font-size: xxx-large;
+}
     
