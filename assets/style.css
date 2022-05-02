@@ -56,3 +56,18 @@ footer {
     font-size: xxx-large;
 }
     
+aside {
+    background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+.app2 {
+    background-image: url('https://source.unsplash.com/random/320x240');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
